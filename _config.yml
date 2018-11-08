@@ -30,7 +30,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.it-agile.de"
 
 # Head
-metaKeywords: "lkce, event, kanban, lean, modern management, change, it-agile, LKU, agile, hamburg"
+metaKeywords: "lkce, lkce18, kanban, lean, modern management, change, it-agile, LKU, agile, hamburg"
 twitterAccount: "@LeanKanbanCE"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -60,9 +60,9 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "lkce18.jpg"
 heroTitle: "Lean Kanban Central Europe <typeout>"
-eventDate: "November, 2019"
-typeoutTextValues: '"", "2019"'
-typeoutFallback: "2019"
+eventDate: "5th + 6th November, 2018"
+typeoutTextValues: '"", "2018"'
+typeoutFallback: "2018"
 heroButtons:
 # - {permalink: "/#tickets", text: "Buy tickets"}
  - {permalink: "/#subscribe", text: "Subscribe for updates"}
